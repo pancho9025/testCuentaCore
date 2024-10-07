@@ -1,0 +1,15 @@
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Application\bin\Debug\net6.0\Core.Transaccion.Application.deps.json
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Application\bin\Debug\net6.0\Core.Transaccion.Application.dll
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Application\bin\Debug\net6.0\Core.Transaccion.Application.pdb
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Application\bin\Debug\net6.0\Core.Transaccion.Domain.dll
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Application\bin\Debug\net6.0\Core.Transaccion.Domain.pdb
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Application\obj\Debug\net6.0\Core.Transaccion.Application.csproj.AssemblyReference.cache
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Application\obj\Debug\net6.0\Core.Transaccion.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Application\obj\Debug\net6.0\Core.Transaccion.Application.AssemblyInfoInputs.cache
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Application\obj\Debug\net6.0\Core.Transaccion.Application.AssemblyInfo.cs
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Application\obj\Debug\net6.0\Core.Transaccion.Application.csproj.CoreCompileInputs.cache
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Application\obj\Debug\net6.0\Core.Tra.4E6FC857.Up2Date
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Application\obj\Debug\net6.0\Core.Transaccion.Application.dll
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Application\obj\Debug\net6.0\refint\Core.Transaccion.Application.dll
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Application\obj\Debug\net6.0\Core.Transaccion.Application.pdb
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Application\obj\Debug\net6.0\ref\Core.Transaccion.Application.dll

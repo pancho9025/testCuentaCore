@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qnjG+QSSGYxHlZfdOl4lm8rkY750NFobctwP2mfR88s=",
+  "Source": "Core.Transaccion.MovimientoCuenta.Rest",
+  "BasePath": "_content/Core.Transaccion.MovimientoCuenta.Rest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

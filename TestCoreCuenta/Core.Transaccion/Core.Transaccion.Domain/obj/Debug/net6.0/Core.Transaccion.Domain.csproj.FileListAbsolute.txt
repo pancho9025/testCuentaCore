@@ -1,0 +1,11 @@
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Domain\bin\Debug\net6.0\Core.Transaccion.Domain.deps.json
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Domain\bin\Debug\net6.0\Core.Transaccion.Domain.dll
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Domain\bin\Debug\net6.0\Core.Transaccion.Domain.pdb
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Domain\obj\Debug\net6.0\Core.Transaccion.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Domain\obj\Debug\net6.0\Core.Transaccion.Domain.AssemblyInfoInputs.cache
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Domain\obj\Debug\net6.0\Core.Transaccion.Domain.AssemblyInfo.cs
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Domain\obj\Debug\net6.0\Core.Transaccion.Domain.csproj.CoreCompileInputs.cache
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Domain\obj\Debug\net6.0\Core.Transaccion.Domain.dll
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Domain\obj\Debug\net6.0\refint\Core.Transaccion.Domain.dll
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Domain\obj\Debug\net6.0\Core.Transaccion.Domain.pdb
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Domain\obj\Debug\net6.0\ref\Core.Transaccion.Domain.dll

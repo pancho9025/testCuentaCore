@@ -1,0 +1,307 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.PersonaCliente.Rest\\Core.Transaccion.PersonaCliente.Rest.csproj": {}
+  },
+  "projects": {
+    "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Core.Transaccion.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Core.Transaccion.Application.csproj",
+        "projectName": "Core.Transaccion.Application",
+        "projectPath": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Core.Transaccion.Application.csproj",
+        "packagesPath": "C:\\Users\\valve\\.nuget\\packages\\",
+        "outputPath": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\valve\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Domain\\Core.Transaccion.Domain.csproj": {
+                "projectPath": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Domain\\Core.Transaccion.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Domain\\Core.Transaccion.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Domain\\Core.Transaccion.Domain.csproj",
+        "projectName": "Core.Transaccion.Domain",
+        "projectPath": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Domain\\Core.Transaccion.Domain.csproj",
+        "packagesPath": "C:\\Users\\valve\\.nuget\\packages\\",
+        "outputPath": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\valve\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Infrastructure\\Core.Transaccion.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Infrastructure\\Core.Transaccion.Infrastructure.csproj",
+        "projectName": "Core.Transaccion.Infrastructure",
+        "projectPath": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Infrastructure\\Core.Transaccion.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\valve\\.nuget\\packages\\",
+        "outputPath": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\valve\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Core.Transaccion.Application.csproj": {
+                "projectPath": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Core.Transaccion.Application.csproj"
+              },
+              "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Domain\\Core.Transaccion.Domain.csproj": {
+                "projectPath": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Domain\\Core.Transaccion.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.PersonaCliente.Rest\\Core.Transaccion.PersonaCliente.Rest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.PersonaCliente.Rest\\Core.Transaccion.PersonaCliente.Rest.csproj",
+        "projectName": "Core.Transaccion.PersonaCliente.Rest",
+        "projectPath": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.PersonaCliente.Rest\\Core.Transaccion.PersonaCliente.Rest.csproj",
+        "packagesPath": "C:\\Users\\valve\\.nuget\\packages\\",
+        "outputPath": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.PersonaCliente.Rest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\valve\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Domain\\Core.Transaccion.Domain.csproj": {
+                "projectPath": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Domain\\Core.Transaccion.Domain.csproj"
+              },
+              "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Infrastructure\\Core.Transaccion.Infrastructure.csproj": {
+                "projectPath": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Infrastructure\\Core.Transaccion.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xu4njC3UqdMRq2uOZQfW0rwvpF/cH/6G4hd7eTjhupLCoB280sEJnRA7Htw1QJ6yzTT7g6iVZJIk8aMDa/TMpg==",
+  "success": true,
+  "projectFilePath": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Core.Transaccion.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\valve\\.nuget\\packages\\mediatr\\6.0.0\\mediatr.6.0.0.nupkg.sha512",
+    "C:\\Users\\valve\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\5.1.0\\mediatr.extensions.microsoft.dependencyinjection.5.1.0.nupkg.sha512",
+    "C:\\Users\\valve\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

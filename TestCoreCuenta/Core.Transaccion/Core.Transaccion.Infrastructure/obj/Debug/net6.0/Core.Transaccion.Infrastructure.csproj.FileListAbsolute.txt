@@ -1,0 +1,17 @@
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Infrastructure\bin\Debug\net6.0\Core.Transaccion.Infrastructure.deps.json
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Infrastructure\bin\Debug\net6.0\Core.Transaccion.Infrastructure.dll
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Infrastructure\bin\Debug\net6.0\Core.Transaccion.Infrastructure.pdb
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Infrastructure\bin\Debug\net6.0\Core.Transaccion.Application.dll
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Infrastructure\bin\Debug\net6.0\Core.Transaccion.Domain.dll
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Infrastructure\bin\Debug\net6.0\Core.Transaccion.Application.pdb
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Infrastructure\bin\Debug\net6.0\Core.Transaccion.Domain.pdb
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Infrastructure\obj\Debug\net6.0\Core.Transaccion.Infrastructure.csproj.AssemblyReference.cache
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Infrastructure\obj\Debug\net6.0\Core.Transaccion.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Infrastructure\obj\Debug\net6.0\Core.Transaccion.Infrastructure.AssemblyInfoInputs.cache
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Infrastructure\obj\Debug\net6.0\Core.Transaccion.Infrastructure.AssemblyInfo.cs
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Infrastructure\obj\Debug\net6.0\Core.Transaccion.Infrastructure.csproj.CoreCompileInputs.cache
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Infrastructure\obj\Debug\net6.0\Core.Tra.FF7FEF1C.Up2Date
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Infrastructure\obj\Debug\net6.0\Core.Transaccion.Infrastructure.dll
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Infrastructure\obj\Debug\net6.0\refint\Core.Transaccion.Infrastructure.dll
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Infrastructure\obj\Debug\net6.0\Core.Transaccion.Infrastructure.pdb
+D:\$CommunityProjects\Core.Transaccion\Core.Transaccion.Infrastructure\obj\Debug\net6.0\ref\Core.Transaccion.Infrastructure.dll

@@ -1,0 +1,182 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "MediatR/6.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/MediatR.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MediatR.dll": {}
+        }
+      },
+      "MediatR.Extensions.Microsoft.DependencyInjection/5.1.0": {
+        "type": "package",
+        "dependencies": {
+          "MediatR": "5.1.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/MediatR.Extensions.Microsoft.DependencyInjection.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MediatR.Extensions.Microsoft.DependencyInjection.dll": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/2.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Core.Transaccion.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Core.Transaccion.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Core.Transaccion.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MediatR/6.0.0": {
+      "sha512": "R01T5Af1kSH9lBvlxdTeJOr+ugPwfy0FsFq15XsNAIA8GSUYwHW7lfvYGwhBynwJVXWxRwieqxOxCFEV9GO+SQ==",
+      "type": "package",
+      "path": "mediatr/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net461/MediatR.dll",
+        "lib/netstandard2.0/MediatR.dll",
+        "mediatr.6.0.0.nupkg.sha512",
+        "mediatr.nuspec"
+      ]
+    },
+    "MediatR.Extensions.Microsoft.DependencyInjection/5.1.0": {
+      "sha512": "iFz9og0gyUUsbG9TBQfSxrnkOU6A9ZckGoswteeA+ip5Qvk0Bk60qJ5+AhXH/RCTxkSTNqQ3jP/gTmIWnFURsg==",
+      "type": "package",
+      "path": "mediatr.extensions.microsoft.dependencyinjection/5.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/MediatR.Extensions.Microsoft.DependencyInjection.dll",
+        "mediatr.extensions.microsoft.dependencyinjection.5.1.0.nupkg.sha512",
+        "mediatr.extensions.microsoft.dependencyinjection.nuspec"
+      ]
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/2.0.0": {
+      "sha512": "eUdJ0Q/GfVyUJc0Jal5L1QZLceL78pvEM9wEKcHeI24KorqMDoVX+gWsMGLulQMfOwsUaPtkpQM2pFERTzSfSg==",
+      "type": "package",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/2.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.nuspec"
+      ]
+    },
+    "Core.Transaccion.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Core.Transaccion.Domain/Core.Transaccion.Domain.csproj",
+      "msbuildProject": "../Core.Transaccion.Domain/Core.Transaccion.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Core.Transaccion.Domain >= 1.0.0",
+      "MediatR >= 6.0.0",
+      "MediatR.Extensions.Microsoft.DependencyInjection >= 5.1.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\valve\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Core.Transaccion.Application.csproj",
+      "projectName": "Core.Transaccion.Application",
+      "projectPath": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Core.Transaccion.Application.csproj",
+      "packagesPath": "C:\\Users\\valve\\.nuget\\packages\\",
+      "outputPath": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\valve\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.telerik.com/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Domain\\Core.Transaccion.Domain.csproj": {
+              "projectPath": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Domain\\Core.Transaccion.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "MediatR": {
+            "target": "Package",
+            "version": "[6.0.0, )"
+          },
+          "MediatR.Extensions.Microsoft.DependencyInjection": {
+            "target": "Package",
+            "version": "[5.1.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YZL/Dtu9ccfqytJJ4VvQ9KBZ3vYjNJ5e2AecDp8Zjos=",
+  "Source": "Core.Transaccion.PersonaCliente.Rest",
+  "BasePath": "_content/Core.Transaccion.PersonaCliente.Rest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

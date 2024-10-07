@@ -1,0 +1,897 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\$CommunityProjects\\Core.Transaccion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.application\\feautures\\movimiento\\command\\actualizarmovimiento\\actualizarmovimientocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|solutionrelative:core.transaccion.application\\feautures\\movimiento\\command\\actualizarmovimiento\\actualizarmovimientocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.application\\feautures\\movimiento\\command\\crearmovimiento\\crearmovimientocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|solutionrelative:core.transaccion.application\\feautures\\movimiento\\command\\crearmovimiento\\crearmovimientocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB207EFB-2060-4E8F-8379-B541C4ACCC7A}|Core.Transaccion.Domain\\Core.Transaccion.Domain.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.domain\\entities\\cuenta\\cuentamovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB207EFB-2060-4E8F-8379-B541C4ACCC7A}|Core.Transaccion.Domain\\Core.Transaccion.Domain.csproj|solutionrelative:core.transaccion.domain\\entities\\cuenta\\cuentamovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|d:\\$communityprojects\\core.transaccion\\core.transaccion.application\\feautures\\movimiento\\queries\\consultarcuentamovimiento\\consultamovimientoqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|solutionrelative:core.transaccion.application\\feautures\\movimiento\\queries\\consultarcuentamovimiento\\consultamovimientoqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A8575E-9472-4D73-98DC-D8709134199E}|Core.Transaccion.Infrastructure\\Core.Transaccion.Infrastructure.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.infrastructure\\repositories\\movimiento\\movimientorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A8575E-9472-4D73-98DC-D8709134199E}|Core.Transaccion.Infrastructure\\Core.Transaccion.Infrastructure.csproj|solutionrelative:core.transaccion.infrastructure\\repositories\\movimiento\\movimientorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.application\\feautures\\movimiento\\command\\eliminarmovimiento\\eliminarmovimientocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|solutionrelative:core.transaccion.application\\feautures\\movimiento\\command\\eliminarmovimiento\\eliminarmovimientocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.application\\contracts\\persintence\\imovimientorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|solutionrelative:core.transaccion.application\\contracts\\persintence\\imovimientorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A8575E-9472-4D73-98DC-D8709134199E}|Core.Transaccion.Infrastructure\\Core.Transaccion.Infrastructure.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.infrastructure\\repositories\\cuenta\\cuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A8575E-9472-4D73-98DC-D8709134199E}|Core.Transaccion.Infrastructure\\Core.Transaccion.Infrastructure.csproj|solutionrelative:core.transaccion.infrastructure\\repositories\\cuenta\\cuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.application\\contracts\\persintence\\icuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|solutionrelative:core.transaccion.application\\contracts\\persintence\\icuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.application\\feautures\\cuenta\\command\\eliminarcuenta\\eliminarcuentacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|solutionrelative:core.transaccion.application\\feautures\\cuenta\\command\\eliminarcuenta\\eliminarcuentacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.application\\feautures\\cuenta\\command\\actualizarcuenta\\actualizarcuentacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|solutionrelative:core.transaccion.application\\feautures\\cuenta\\command\\actualizarcuenta\\actualizarcuentacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB207EFB-2060-4E8F-8379-B541C4ACCC7A}|Core.Transaccion.Domain\\Core.Transaccion.Domain.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.domain\\entities\\cuenta\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB207EFB-2060-4E8F-8379-B541C4ACCC7A}|Core.Transaccion.Domain\\Core.Transaccion.Domain.csproj|solutionrelative:core.transaccion.domain\\entities\\cuenta\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BEC5F4-C41D-4BF4-BFA9-C9D0B8DBD2F6}|Core.Transaccion.PersonaCliente.Rest\\Core.Transaccion.PersonaCliente.Rest.csproj|d:\\$communityprojects\\core.transaccion\\core.transaccion.personacliente.rest\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BEC5F4-C41D-4BF4-BFA9-C9D0B8DBD2F6}|Core.Transaccion.PersonaCliente.Rest\\Core.Transaccion.PersonaCliente.Rest.csproj|solutionrelative:core.transaccion.personacliente.rest\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1936469-DE0A-4DDD-95B3-BDFCD378EB6D}|Core.Transaccion.MovimientoCuenta.Rest\\Core.Transaccion.MovimientoCuenta.Rest.csproj|d:\\$communityprojects\\core.transaccion\\core.transaccion.movimientocuenta.rest\\controllers\\movimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1936469-DE0A-4DDD-95B3-BDFCD378EB6D}|Core.Transaccion.MovimientoCuenta.Rest\\Core.Transaccion.MovimientoCuenta.Rest.csproj|solutionrelative:core.transaccion.movimientocuenta.rest\\controllers\\movimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1936469-DE0A-4DDD-95B3-BDFCD378EB6D}|Core.Transaccion.MovimientoCuenta.Rest\\Core.Transaccion.MovimientoCuenta.Rest.csproj|d:\\$communityprojects\\core.transaccion\\core.transaccion.movimientocuenta.rest\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1936469-DE0A-4DDD-95B3-BDFCD378EB6D}|Core.Transaccion.MovimientoCuenta.Rest\\Core.Transaccion.MovimientoCuenta.Rest.csproj|solutionrelative:core.transaccion.movimientocuenta.rest\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.application\\feautures\\cuenta\\command\\crearcuenta\\crearcuentacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|solutionrelative:core.transaccion.application\\feautures\\cuenta\\command\\crearcuenta\\crearcuentacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A8575E-9472-4D73-98DC-D8709134199E}|Core.Transaccion.Infrastructure\\Core.Transaccion.Infrastructure.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.infrastructure\\repositories\\cliente\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A8575E-9472-4D73-98DC-D8709134199E}|Core.Transaccion.Infrastructure\\Core.Transaccion.Infrastructure.csproj|solutionrelative:core.transaccion.infrastructure\\repositories\\cliente\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.application\\contracts\\persintence\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|solutionrelative:core.transaccion.application\\contracts\\persintence\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.application\\feautures\\cliente\\command\\crearcliente\\crearclientecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|solutionrelative:core.transaccion.application\\feautures\\cliente\\command\\crearcliente\\crearclientecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.application\\feautures\\cliente\\command\\eliminarcliente\\eliminarclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|solutionrelative:core.transaccion.application\\feautures\\cliente\\command\\eliminarcliente\\eliminarclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.application\\feautures\\cliente\\command\\eliminarcliente\\eliminarclientecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|solutionrelative:core.transaccion.application\\feautures\\cliente\\command\\eliminarcliente\\eliminarclientecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.application\\feautures\\cliente\\command\\actualizarcliente\\actualizarclientecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|solutionrelative:core.transaccion.application\\feautures\\cliente\\command\\actualizarcliente\\actualizarclientecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.application\\feautures\\cuenta\\command\\crearcuenta\\crearcuentacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|solutionrelative:core.transaccion.application\\feautures\\cuenta\\command\\crearcuenta\\crearcuentacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB207EFB-2060-4E8F-8379-B541C4ACCC7A}|Core.Transaccion.Domain\\Core.Transaccion.Domain.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.domain\\entities\\cliente\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB207EFB-2060-4E8F-8379-B541C4ACCC7A}|Core.Transaccion.Domain\\Core.Transaccion.Domain.csproj|solutionrelative:core.transaccion.domain\\entities\\cliente\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A8575E-9472-4D73-98DC-D8709134199E}|Core.Transaccion.Infrastructure\\Core.Transaccion.Infrastructure.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.infrastructure\\context\\corecuentacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A8575E-9472-4D73-98DC-D8709134199E}|Core.Transaccion.Infrastructure\\Core.Transaccion.Infrastructure.csproj|solutionrelative:core.transaccion.infrastructure\\context\\corecuentacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB207EFB-2060-4E8F-8379-B541C4ACCC7A}|Core.Transaccion.Domain\\Core.Transaccion.Domain.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.domain\\entities\\cliente\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB207EFB-2060-4E8F-8379-B541C4ACCC7A}|Core.Transaccion.Domain\\Core.Transaccion.Domain.csproj|solutionrelative:core.transaccion.domain\\entities\\cliente\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A8575E-9472-4D73-98DC-D8709134199E}|Core.Transaccion.Infrastructure\\Core.Transaccion.Infrastructure.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.infrastructure\\repositories\\transaccionunitofworkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A8575E-9472-4D73-98DC-D8709134199E}|Core.Transaccion.Infrastructure\\Core.Transaccion.Infrastructure.csproj|solutionrelative:core.transaccion.infrastructure\\repositories\\transaccionunitofworkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.application\\feautures\\cliente\\command\\actualizarcliente\\actualizarclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|solutionrelative:core.transaccion.application\\feautures\\cliente\\command\\actualizarcliente\\actualizarclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB207EFB-2060-4E8F-8379-B541C4ACCC7A}|Core.Transaccion.Domain\\Core.Transaccion.Domain.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.domain\\entities\\cuenta\\clientecuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB207EFB-2060-4E8F-8379-B541C4ACCC7A}|Core.Transaccion.Domain\\Core.Transaccion.Domain.csproj|solutionrelative:core.transaccion.domain\\entities\\cuenta\\clientecuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.application\\feautures\\cliente\\command\\crearcliente\\crearclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|solutionrelative:core.transaccion.application\\feautures\\cliente\\command\\crearcliente\\crearclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8BEC5F4-C41D-4BF4-BFA9-C9D0B8DBD2F6}|Core.Transaccion.PersonaCliente.Rest\\Core.Transaccion.PersonaCliente.Rest.csproj|d:\\$communityprojects\\core.transaccion\\core.transaccion.personacliente.rest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8BEC5F4-C41D-4BF4-BFA9-C9D0B8DBD2F6}|Core.Transaccion.PersonaCliente.Rest\\Core.Transaccion.PersonaCliente.Rest.csproj|solutionrelative:core.transaccion.personacliente.rest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1936469-DE0A-4DDD-95B3-BDFCD378EB6D}|Core.Transaccion.MovimientoCuenta.Rest\\Core.Transaccion.MovimientoCuenta.Rest.csproj|d:\\$communityprojects\\core.transaccion\\core.transaccion.movimientocuenta.rest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1936469-DE0A-4DDD-95B3-BDFCD378EB6D}|Core.Transaccion.MovimientoCuenta.Rest\\Core.Transaccion.MovimientoCuenta.Rest.csproj|solutionrelative:core.transaccion.movimientocuenta.rest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1936469-DE0A-4DDD-95B3-BDFCD378EB6D}|Core.Transaccion.MovimientoCuenta.Rest\\Core.Transaccion.MovimientoCuenta.Rest.csproj|d:\\$communityprojects\\core.transaccion\\core.transaccion.movimientocuenta.rest\\model\\request\\cuentarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1936469-DE0A-4DDD-95B3-BDFCD378EB6D}|Core.Transaccion.MovimientoCuenta.Rest\\Core.Transaccion.MovimientoCuenta.Rest.csproj|solutionrelative:core.transaccion.movimientocuenta.rest\\model\\request\\cuentarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.application\\contracts\\persintence\\itransaccionunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|solutionrelative:core.transaccion.application\\contracts\\persintence\\itransaccionunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|d:\\$communityprojects\\core.transaccion\\core.transaccion.application\\feautures\\movimiento\\queries\\consultarcuentamovimiento\\consultamovimientoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|solutionrelative:core.transaccion.application\\feautures\\movimiento\\queries\\consultarcuentamovimiento\\consultamovimientoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.application\\feautures\\movimiento\\command\\actualizarmovimiento\\actualizarmovimientocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|solutionrelative:core.transaccion.application\\feautures\\movimiento\\command\\actualizarmovimiento\\actualizarmovimientocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.application\\feautures\\movimiento\\command\\crearmovimiento\\crearmovimientocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|solutionrelative:core.transaccion.application\\feautures\\movimiento\\command\\crearmovimiento\\crearmovimientocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB207EFB-2060-4E8F-8379-B541C4ACCC7A}|Core.Transaccion.Domain\\Core.Transaccion.Domain.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.domain\\entities\\cuenta\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB207EFB-2060-4E8F-8379-B541C4ACCC7A}|Core.Transaccion.Domain\\Core.Transaccion.Domain.csproj|solutionrelative:core.transaccion.domain\\entities\\cuenta\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A8575E-9472-4D73-98DC-D8709134199E}|Core.Transaccion.Infrastructure\\Core.Transaccion.Infrastructure.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.infrastructure\\core.transaccion.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A5A8575E-9472-4D73-98DC-D8709134199E}|Core.Transaccion.Infrastructure\\Core.Transaccion.Infrastructure.csproj|solutionrelative:core.transaccion.infrastructure\\core.transaccion.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.application\\feautures\\movimiento\\command\\eliminarmovimiento\\eliminarmovimientocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|solutionrelative:core.transaccion.application\\feautures\\movimiento\\command\\eliminarmovimiento\\eliminarmovimientocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.application\\feautures\\cuenta\\command\\eliminarcuenta\\eliminarcuentacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|solutionrelative:core.transaccion.application\\feautures\\cuenta\\command\\eliminarcuenta\\eliminarcuentacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.application\\feautures\\cuenta\\command\\actualizarcuenta\\actualizarcuentacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|solutionrelative:core.transaccion.application\\feautures\\cuenta\\command\\actualizarcuenta\\actualizarcuentacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.application\\shared\\metadatosresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|solutionrelative:core.transaccion.application\\shared\\metadatosresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.application\\shared\\mensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|solutionrelative:core.transaccion.application\\shared\\mensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.application\\shared\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|solutionrelative:core.transaccion.application\\shared\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}|Core.Transaccion.Application\\Core.Transaccion.Application.csproj|solutionrelative:core.transaccion.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB207EFB-2060-4E8F-8379-B541C4ACCC7A}|Core.Transaccion.Domain\\Core.Transaccion.Domain.csproj|D:\\$CommunityProjects\\Core.Transaccion\\core.transaccion.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB207EFB-2060-4E8F-8379-B541C4ACCC7A}|Core.Transaccion.Domain\\Core.Transaccion.Domain.csproj|solutionrelative:core.transaccion.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Movimiento.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Domain\\Entities\\Cuenta\\Movimiento.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Domain\\Entities\\Cuenta\\Movimiento.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Domain\\Entities\\Cuenta\\Movimiento.cs",
+              "RelativeToolTip": "Core.Transaccion.Domain\\Entities\\Cuenta\\Movimiento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T20:29:15.319Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CoreCuentaContext.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Infrastructure\\Context\\CoreCuentaContext.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Infrastructure\\Context\\CoreCuentaContext.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Infrastructure\\Context\\CoreCuentaContext.cs",
+              "RelativeToolTip": "Core.Transaccion.Infrastructure\\Context\\CoreCuentaContext.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAgwFgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T21:15:56.509Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ClienteCuenta.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Domain\\Entities\\Cuenta\\ClienteCuenta.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Domain\\Entities\\Cuenta\\ClienteCuenta.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Domain\\Entities\\Cuenta\\ClienteCuenta.cs",
+              "RelativeToolTip": "Core.Transaccion.Domain\\Entities\\Cuenta\\ClienteCuenta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T19:43:20.034Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CuentaMovimiento.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Domain\\Entities\\Cuenta\\CuentaMovimiento.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Domain\\Entities\\Cuenta\\CuentaMovimiento.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Domain\\Entities\\Cuenta\\CuentaMovimiento.cs",
+              "RelativeToolTip": "Core.Transaccion.Domain\\Entities\\Cuenta\\CuentaMovimiento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T17:57:46.602Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Domain\\Entities\\Cliente\\Cliente.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Domain\\Entities\\Cliente\\Cliente.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Domain\\Entities\\Cliente\\Cliente.cs",
+              "RelativeToolTip": "Core.Transaccion.Domain\\Entities\\Cliente\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:56:08.627Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Domain\\Entities\\Cuenta\\Cuenta.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Domain\\Entities\\Cuenta\\Cuenta.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Domain\\Entities\\Cuenta\\Cuenta.cs",
+              "RelativeToolTip": "Core.Transaccion.Domain\\Entities\\Cuenta\\Cuenta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:09:36.271Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Domain\\Entities\\Cliente\\Persona.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Domain\\Entities\\Cliente\\Persona.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Domain\\Entities\\Cliente\\Persona.cs",
+              "RelativeToolTip": "Core.Transaccion.Domain\\Entities\\Cliente\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:20:33.615Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Application\\Class1.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Class1.cs",
+              "RelativeToolTip": "Core.Transaccion.Application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:36:10.951Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MetaDatosResult.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Shared\\MetaDatosResult.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Application\\Shared\\MetaDatosResult.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Shared\\MetaDatosResult.cs",
+              "RelativeToolTip": "Core.Transaccion.Application\\Shared\\MetaDatosResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T01:24:14.83Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CuentaRepository.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Infrastructure\\Repositories\\Cuenta\\CuentaRepository.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Infrastructure\\Repositories\\Cuenta\\CuentaRepository.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Infrastructure\\Repositories\\Cuenta\\CuentaRepository.cs",
+              "RelativeToolTip": "Core.Transaccion.Infrastructure\\Repositories\\Cuenta\\CuentaRepository.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAIwGIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T23:48:30.446Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:23:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:29:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:30:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:31:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:39:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActualizarMovimientoCommandHandler.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Movimiento\\Command\\ActualizarMovimiento\\ActualizarMovimientoCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Application\\Feautures\\Movimiento\\Command\\ActualizarMovimiento\\ActualizarMovimientoCommandHandler.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Movimiento\\Command\\ActualizarMovimiento\\ActualizarMovimientoCommandHandler.cs",
+              "RelativeToolTip": "Core.Transaccion.Application\\Feautures\\Movimiento\\Command\\ActualizarMovimiento\\ActualizarMovimientoCommandHandler.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB0AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:47:24.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovimientoRepository.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Infrastructure\\Repositories\\Movimiento\\MovimientoRepository.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Infrastructure\\Repositories\\Movimiento\\MovimientoRepository.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Infrastructure\\Repositories\\Movimiento\\MovimientoRepository.cs",
+              "RelativeToolTip": "Core.Transaccion.Infrastructure\\Repositories\\Movimiento\\MovimientoRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T23:54:40.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CrearMovimientoCommandHandler.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Movimiento\\Command\\CrearMovimiento\\CrearMovimientoCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Application\\Feautures\\Movimiento\\Command\\CrearMovimiento\\CrearMovimientoCommandHandler.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Movimiento\\Command\\CrearMovimiento\\CrearMovimientoCommandHandler.cs",
+              "RelativeToolTip": "Core.Transaccion.Application\\Feautures\\Movimiento\\Command\\CrearMovimiento\\CrearMovimientoCommandHandler.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAB0AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:44:29.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Contracts\\Persintence\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Application\\Contracts\\Persintence\\IClienteRepository.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Contracts\\Persintence\\IClienteRepository.cs",
+              "RelativeToolTip": "Core.Transaccion.Application\\Contracts\\Persintence\\IClienteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T23:56:06.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CrearCuentaCommandHandler.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Cuenta\\Command\\CrearCuenta\\CrearCuentaCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Application\\Feautures\\Cuenta\\Command\\CrearCuenta\\CrearCuentaCommandHandler.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Cuenta\\Command\\CrearCuenta\\CrearCuentaCommandHandler.cs",
+              "RelativeToolTip": "Core.Transaccion.Application\\Feautures\\Cuenta\\Command\\CrearCuenta\\CrearCuentaCommandHandler.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAIwCUAAACrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:31:10.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsultaMovimientoQueryHandler.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Movimiento\\Queries\\ConsultarCuentaMovimiento\\ConsultaMovimientoQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Application\\Feautures\\Movimiento\\Queries\\ConsultarCuentaMovimiento\\ConsultaMovimientoQueryHandler.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Movimiento\\Queries\\ConsultarCuentaMovimiento\\ConsultaMovimientoQueryHandler.cs",
+              "RelativeToolTip": "Core.Transaccion.Application\\Feautures\\Movimiento\\Queries\\ConsultarCuentaMovimiento\\ConsultaMovimientoQueryHandler.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBYAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T23:30:38.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ActualizarCuentaCommandHandler.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Cuenta\\Command\\ActualizarCuenta\\ActualizarCuentaCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Application\\Feautures\\Cuenta\\Command\\ActualizarCuenta\\ActualizarCuentaCommandHandler.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Cuenta\\Command\\ActualizarCuenta\\ActualizarCuentaCommandHandler.cs",
+              "RelativeToolTip": "Core.Transaccion.Application\\Feautures\\Cuenta\\Command\\ActualizarCuenta\\ActualizarCuentaCommandHandler.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:38:48.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EliminarMovimientoCommandHandler.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Movimiento\\Command\\EliminarMovimiento\\EliminarMovimientoCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Application\\Feautures\\Movimiento\\Command\\EliminarMovimiento\\EliminarMovimientoCommandHandler.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Movimiento\\Command\\EliminarMovimiento\\EliminarMovimientoCommandHandler.cs",
+              "RelativeToolTip": "Core.Transaccion.Application\\Feautures\\Movimiento\\Command\\EliminarMovimiento\\EliminarMovimientoCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:51:58.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMovimientoRepository.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Contracts\\Persintence\\IMovimientoRepository.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Application\\Contracts\\Persintence\\IMovimientoRepository.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Contracts\\Persintence\\IMovimientoRepository.cs",
+              "RelativeToolTip": "Core.Transaccion.Application\\Contracts\\Persintence\\IMovimientoRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvxIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T23:56:43.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CrearClienteCommandHandler.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Cliente\\Command\\CrearCliente\\CrearClienteCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Application\\Feautures\\Cliente\\Command\\CrearCliente\\CrearClienteCommandHandler.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Cliente\\Command\\CrearCliente\\CrearClienteCommandHandler.cs",
+              "RelativeToolTip": "Core.Transaccion.Application\\Feautures\\Cliente\\Command\\CrearCliente\\CrearClienteCommandHandler.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBwAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:54:45.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EliminarCuentaCommandHandler.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Cuenta\\Command\\EliminarCuenta\\EliminarCuentaCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Application\\Feautures\\Cuenta\\Command\\EliminarCuenta\\EliminarCuentaCommandHandler.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Cuenta\\Command\\EliminarCuenta\\EliminarCuentaCommandHandler.cs",
+              "RelativeToolTip": "Core.Transaccion.Application\\Feautures\\Cuenta\\Command\\EliminarCuenta\\EliminarCuentaCommandHandler.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBcAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:35:16.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICuentaRepository.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Contracts\\Persintence\\ICuentaRepository.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Application\\Contracts\\Persintence\\ICuentaRepository.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Contracts\\Persintence\\ICuentaRepository.cs",
+              "RelativeToolTip": "Core.Transaccion.Application\\Contracts\\Persintence\\ICuentaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T23:56:26.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.PersonaCliente.Rest\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.PersonaCliente.Rest\\Controllers\\ClienteController.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.PersonaCliente.Rest\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Core.Transaccion.PersonaCliente.Rest\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwCwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T02:25:28.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CuentaController.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.MovimientoCuenta.Rest\\Controllers\\CuentaController.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.MovimientoCuenta.Rest\\Controllers\\CuentaController.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.MovimientoCuenta.Rest\\Controllers\\CuentaController.cs",
+              "RelativeToolTip": "Core.Transaccion.MovimientoCuenta.Rest\\Controllers\\CuentaController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwFQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T00:20:46.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MovimientoController.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.MovimientoCuenta.Rest\\Controllers\\MovimientoController.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.MovimientoCuenta.Rest\\Controllers\\MovimientoController.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.MovimientoCuenta.Rest\\Controllers\\MovimientoController.cs",
+              "RelativeToolTip": "Core.Transaccion.MovimientoCuenta.Rest\\Controllers\\MovimientoController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T00:20:46.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Infrastructure\\Repositories\\Cliente\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Infrastructure\\Repositories\\Cliente\\ClienteRepository.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Infrastructure\\Repositories\\Cliente\\ClienteRepository.cs",
+              "RelativeToolTip": "Core.Transaccion.Infrastructure\\Repositories\\Cliente\\ClienteRepository.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAiwEEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T23:47:53.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EliminarClienteCommand.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Cliente\\Command\\EliminarCliente\\EliminarClienteCommand.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Application\\Feautures\\Cliente\\Command\\EliminarCliente\\EliminarClienteCommand.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Cliente\\Command\\EliminarCliente\\EliminarClienteCommand.cs",
+              "RelativeToolTip": "Core.Transaccion.Application\\Feautures\\Cliente\\Command\\EliminarCliente\\EliminarClienteCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:23:58.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EliminarClienteCommandHandler.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Cliente\\Command\\EliminarCliente\\EliminarClienteCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Application\\Feautures\\Cliente\\Command\\EliminarCliente\\EliminarClienteCommandHandler.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Cliente\\Command\\EliminarCliente\\EliminarClienteCommandHandler.cs",
+              "RelativeToolTip": "Core.Transaccion.Application\\Feautures\\Cliente\\Command\\EliminarCliente\\EliminarClienteCommandHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:24:43.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ActualizarClienteCommandHandler.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Cliente\\Command\\ActualizarCliente\\ActualizarClienteCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Application\\Feautures\\Cliente\\Command\\ActualizarCliente\\ActualizarClienteCommandHandler.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Cliente\\Command\\ActualizarCliente\\ActualizarClienteCommandHandler.cs",
+              "RelativeToolTip": "Core.Transaccion.Application\\Feautures\\Cliente\\Command\\ActualizarCliente\\ActualizarClienteCommandHandler.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwB0AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:21:23.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CrearCuentaCommand.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Cuenta\\Command\\CrearCuenta\\CrearCuentaCommand.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Application\\Feautures\\Cuenta\\Command\\CrearCuenta\\CrearCuentaCommand.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Cuenta\\Command\\CrearCuenta\\CrearCuentaCommand.cs",
+              "RelativeToolTip": "Core.Transaccion.Application\\Feautures\\Cuenta\\Command\\CrearCuenta\\CrearCuentaCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:30:48.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TransaccionUnitOfWorkRepository.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Infrastructure\\Repositories\\TransaccionUnitOfWorkRepository.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Infrastructure\\Repositories\\TransaccionUnitOfWorkRepository.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Infrastructure\\Repositories\\TransaccionUnitOfWorkRepository.cs",
+              "RelativeToolTip": "Core.Transaccion.Infrastructure\\Repositories\\TransaccionUnitOfWorkRepository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAqwCQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T23:38:43.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ActualizarClienteCommand.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Cliente\\Command\\ActualizarCliente\\ActualizarClienteCommand.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Application\\Feautures\\Cliente\\Command\\ActualizarCliente\\ActualizarClienteCommand.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Cliente\\Command\\ActualizarCliente\\ActualizarClienteCommand.cs",
+              "RelativeToolTip": "Core.Transaccion.Application\\Feautures\\Cliente\\Command\\ActualizarCliente\\ActualizarClienteCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:20:58.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.PersonaCliente.Rest\\Program.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.PersonaCliente.Rest\\Program.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.PersonaCliente.Rest\\Program.cs",
+              "RelativeToolTip": "Core.Transaccion.PersonaCliente.Rest\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T02:32:28.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CrearClienteCommand.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Cliente\\Command\\CrearCliente\\CrearClienteCommand.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Application\\Feautures\\Cliente\\Command\\CrearCliente\\CrearClienteCommand.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Cliente\\Command\\CrearCliente\\CrearClienteCommand.cs",
+              "RelativeToolTip": "Core.Transaccion.Application\\Feautures\\Cliente\\Command\\CrearCliente\\CrearClienteCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:52:34.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.MovimientoCuenta.Rest\\Program.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.MovimientoCuenta.Rest\\Program.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.MovimientoCuenta.Rest\\Program.cs",
+              "RelativeToolTip": "Core.Transaccion.MovimientoCuenta.Rest\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwBEAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T00:25:06.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CuentaRequest.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.MovimientoCuenta.Rest\\Model\\Request\\CuentaRequest.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.MovimientoCuenta.Rest\\Model\\Request\\CuentaRequest.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.MovimientoCuenta.Rest\\Model\\Request\\CuentaRequest.cs",
+              "RelativeToolTip": "Core.Transaccion.MovimientoCuenta.Rest\\Model\\Request\\CuentaRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T01:20:42.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ITransaccionUnitOfWork.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Contracts\\Persintence\\ITransaccionUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Application\\Contracts\\Persintence\\ITransaccionUnitOfWork.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Contracts\\Persintence\\ITransaccionUnitOfWork.cs",
+              "RelativeToolTip": "Core.Transaccion.Application\\Contracts\\Persintence\\ITransaccionUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T00:22:59.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ActualizarMovimientoCommand.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Movimiento\\Command\\ActualizarMovimiento\\ActualizarMovimientoCommand.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Application\\Feautures\\Movimiento\\Command\\ActualizarMovimiento\\ActualizarMovimientoCommand.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Movimiento\\Command\\ActualizarMovimiento\\ActualizarMovimientoCommand.cs",
+              "RelativeToolTip": "Core.Transaccion.Application\\Feautures\\Movimiento\\Command\\ActualizarMovimiento\\ActualizarMovimientoCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:47:01.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ConsultaMovimientoQuery.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Movimiento\\Queries\\ConsultarCuentaMovimiento\\ConsultaMovimientoQuery.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Application\\Feautures\\Movimiento\\Queries\\ConsultarCuentaMovimiento\\ConsultaMovimientoQuery.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Movimiento\\Queries\\ConsultarCuentaMovimiento\\ConsultaMovimientoQuery.cs",
+              "RelativeToolTip": "Core.Transaccion.Application\\Feautures\\Movimiento\\Queries\\ConsultarCuentaMovimiento\\ConsultaMovimientoQuery.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAvwBMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T23:30:21.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CrearMovimientoCommand.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Movimiento\\Command\\CrearMovimiento\\CrearMovimientoCommand.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Application\\Feautures\\Movimiento\\Command\\CrearMovimiento\\CrearMovimientoCommand.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Movimiento\\Command\\CrearMovimiento\\CrearMovimientoCommand.cs",
+              "RelativeToolTip": "Core.Transaccion.Application\\Feautures\\Movimiento\\Command\\CrearMovimiento\\CrearMovimientoCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:44:10.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Core.Transaccion.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Infrastructure\\Core.Transaccion.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Core.Transaccion.Infrastructure\\Core.Transaccion.Infrastructure.csproj",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Infrastructure\\Core.Transaccion.Infrastructure.csproj",
+              "RelativeToolTip": "Core.Transaccion.Infrastructure\\Core.Transaccion.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-03T22:19:17.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EliminarMovimientoCommand.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Movimiento\\Command\\EliminarMovimiento\\EliminarMovimientoCommand.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Application\\Feautures\\Movimiento\\Command\\EliminarMovimiento\\EliminarMovimientoCommand.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Movimiento\\Command\\EliminarMovimiento\\EliminarMovimientoCommand.cs",
+              "RelativeToolTip": "Core.Transaccion.Application\\Feautures\\Movimiento\\Command\\EliminarMovimiento\\EliminarMovimientoCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:51:40.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EliminarCuentaCommand.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Cuenta\\Command\\EliminarCuenta\\EliminarCuentaCommand.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Application\\Feautures\\Cuenta\\Command\\EliminarCuenta\\EliminarCuentaCommand.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Cuenta\\Command\\EliminarCuenta\\EliminarCuentaCommand.cs",
+              "RelativeToolTip": "Core.Transaccion.Application\\Feautures\\Cuenta\\Command\\EliminarCuenta\\EliminarCuentaCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:34:57.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ActualizarCuentaCommand.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Cuenta\\Command\\ActualizarCuenta\\ActualizarCuentaCommand.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Application\\Feautures\\Cuenta\\Command\\ActualizarCuenta\\ActualizarCuentaCommand.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Feautures\\Cuenta\\Command\\ActualizarCuenta\\ActualizarCuentaCommand.cs",
+              "RelativeToolTip": "Core.Transaccion.Application\\Feautures\\Cuenta\\Command\\ActualizarCuenta\\ActualizarCuentaCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:38:25.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Mensaje.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Shared\\Mensaje.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Application\\Shared\\Mensaje.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Shared\\Mensaje.cs",
+              "RelativeToolTip": "Core.Transaccion.Application\\Shared\\Mensaje.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T01:25:43.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Error.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Shared\\Error.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Application\\Shared\\Error.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Application\\Shared\\Error.cs",
+              "RelativeToolTip": "Core.Transaccion.Application\\Shared\\Error.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T01:35:37.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Core.Transaccion.Domain\\Class1.cs",
+              "ToolTip": "D:\\$CommunityProjects\\Core.Transaccion\\Core.Transaccion.Domain\\Class1.cs",
+              "RelativeToolTip": "Core.Transaccion.Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:37:07.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

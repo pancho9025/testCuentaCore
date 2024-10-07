@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Core.Transaccion.MovimientoCuenta.Rest.props" />
+</Project>

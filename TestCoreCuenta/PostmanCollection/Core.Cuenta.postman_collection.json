@@ -1,0 +1,266 @@
+{
+	"info": {
+		"_postman_id": "28221c02-a505-485f-874d-a00f66a95646",
+		"name": "Core.Cuenta",
+		"description": "# 🚀 Get started here\n\nThis template guides you through CRUD operations (GET, POST, PUT, DELETE), variables, and tests.\n\n## 🔖 **How to use this template**\n\n#### **Step 1: Send requests**\n\nRESTful APIs allow you to perform CRUD operations using the POST, GET, PUT, and DELETE HTTP methods.\n\nThis collection contains each of these [request](https://learning.postman.com/docs/sending-requests/requests/) types. Open each request and click \"Send\" to see what happens.\n\n#### **Step 2: View responses**\n\nObserve the response tab for status code (200 OK), response time, and size.\n\n#### **Step 3: Send new Body data**\n\nUpdate or add new data in \"Body\" in the POST request. Typically, Body data is also used in PUT request.\n\n```\n{\n    \"name\": \"Add your name in the body\"\n}\n\n ```\n\n#### **Step 4: Update the variable**\n\nVariables enable you to store and reuse values in Postman. We have created a [variable](https://learning.postman.com/docs/sending-requests/variables/) called `base_url` with the sample request [https://postman-api-learner.glitch.me](https://postman-api-learner.glitch.me). Replace it with your API endpoint to customize this collection.\n\n#### **Step 5: Add tests in the \"Scripts\" tab**\n\nAdding tests to your requests can help you confirm that your API is working as expected. You can write test scripts in JavaScript and view the output in the \"Test Results\" tab.\n\n<img src=\"https://content.pstmn.io/fa30ea0a-373d-4545-a668-e7b283cca343/aW1hZ2UucG5n\" alt=\"\" height=\"1530\" width=\"2162\">\n\n## 💪 Pro tips\n\n- Use folders to group related requests and organize the collection.\n    \n- Add more [scripts](https://learning.postman.com/docs/writing-scripts/intro-to-scripts/) to verify if the API works as expected and execute workflows.\n    \n\n## 💡Related templates\n\n[API testing basics](https://go.postman.co/redirect/workspace?type=personal&collectionTemplateId=e9a37a28-055b-49cd-8c7e-97494a21eb54&sourceTemplateId=ddb19591-3097-41cf-82af-c84273e56719)  \n[API documentation](https://go.postman.co/redirect/workspace?type=personal&collectionTemplateId=e9c28f47-1253-44af-a2f3-20dce4da1f18&sourceTemplateId=ddb19591-3097-41cf-82af-c84273e56719)  \n[Authorization methods](https://go.postman.co/redirect/workspace?type=personal&collectionTemplateId=31a9a6ed-4cdf-4ced-984c-d12c9aec1c27&sourceTemplateId=ddb19591-3097-41cf-82af-c84273e56719)",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "11694451"
+	},
+	"item": [
+		{
+			"name": "Cuenta",
+			"item": [
+				{
+					"name": "CrearCuenta",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"NumeroCuenta\": 123124,\r\n    \"TipoCuenta\": \"AHORROS\",\r\n    \"SaldoInicial\": 500.00,\r\n    \"Estado\":true,\r\n    \"ClienteId\": 11\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://localhost:7005/cuenta/cuentas"
+					},
+					"response": []
+				},
+				{
+					"name": "ActualizarCuenta",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"CuentaId\": 10,\r\n    \"NumeroCuenta\": 324525,\r\n    \"TipoCuenta\": \"AHORROS\",\r\n    \"SaldoInicial\": 500.00,\r\n    \"Estado\":true\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://localhost:7005/cuenta/cuentas"
+					},
+					"response": []
+				},
+				{
+					"name": "EliminarCuenta",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"CuentaId\": 10,\r\n    \"NumeroCuenta\": 324525,\r\n    \"TipoCuenta\": \"AHORROS\",\r\n    \"SaldoInicial\": 500.00,\r\n    \"Estado\":true\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://localhost:7005/cuenta/cuentas"
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Movimiento",
+			"item": [
+				{
+					"name": "CrearMovimientoDeposito",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"ClienteId\": 11,\r\n    \"CuentaId\": 10,\r\n    \"Fecha\": \"2024-10-06T15:30:00\", \r\n    \"TipoMovimiento\": \"DEPOSITO\", \r\n    \"Valor\": 300.00\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://localhost:7005/movimiento/movimientos"
+					},
+					"response": []
+				},
+				{
+					"name": "ActualizarMovimiento",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"MovimientoId\": 7,\r\n    \"ClienteId\": 11,\r\n    \"CuentaId\": 10,\r\n    \"Fecha\": \"2024-10-07T15:30:00\", \r\n    \"TipoMovimiento\": \"DEPOSITO\", \r\n    \"Valor\": 350.00\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://localhost:7005/movimiento/movimientos"
+					},
+					"response": []
+				},
+				{
+					"name": "EliminarMovimiento",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"MovimientoId\": 6,\r\n    \"ClienteId\": 11,\r\n    \"CuentaId\": 10,\r\n    \"Fecha\": \"2024-10-07T14:50:00\", \r\n    \"TipoMovimiento\": \"RETIRO\", \r\n    \"Valor\": -500.00\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://localhost:7005/movimiento/movimientos"
+					},
+					"response": []
+				},
+				{
+					"name": "ReporteMovimientos",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:7005/movimiento/reportes?fechaInicio=06-09-2024&fechaFin=07-10-2024",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7005",
+							"path": [
+								"movimiento",
+								"reportes"
+							],
+							"query": [
+								{
+									"key": "fechaInicio",
+									"value": "06-09-2024"
+								},
+								{
+									"key": "fechaFin",
+									"value": "07-10-2024"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "CrearMovimientoRetiro",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"ClienteId\": 11,\r\n    \"CuentaId\": 10,\r\n    \"Fecha\": \"2024-10-07T14:50:00\", \r\n    \"TipoMovimiento\": \"RETIRO\", \r\n    \"Valor\": -500.00\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://localhost:7005/movimiento/movimientos"
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Cliente",
+			"item": [
+				{
+					"name": "CrearCliente",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"Clave\": \"admin123\",\r\n    \"Estado\": true,\r\n    \"Nombre\": \"Javier Valverde\",\r\n    \"Genero\": \"M\", \r\n    \"Edad\": 30,\r\n    \"Identificacion\": \"1765456567\",\r\n    \"Direccion\": \"Calle miguel de S\",\r\n    \"Telefono\": \"0987876543\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://localhost:7133/cliente/clientes"
+					},
+					"response": []
+				},
+				{
+					"name": "ActualizarCliente",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"ClienteId\": 11,\r\n    \"Clave\": \"admin123\",\r\n    \"Estado\": true,\r\n    \"Nombre\": \"Javier Valverde P\",\r\n    \"Genero\": \"M\", \r\n    \"Edad\": 30,\r\n    \"Identificacion\": \"1765456567\",\r\n    \"Direccion\": \"Calle miguel de S\",\r\n    \"Telefono\": \"0987678765\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://localhost:7133/cliente/clientes"
+					},
+					"response": []
+				},
+				{
+					"name": "EliminarCliente",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"ClienteId\": 10,\r\n    \"Clave\": \"admin123\",\r\n    \"Estado\": true,\r\n    \"Nombre\": \"Javier Valverde P\",\r\n    \"Genero\": \"M\", \r\n    \"Edad\": 30,\r\n    \"Identificacion\": \"1765456567\",\r\n    \"Direccion\": \"Calle miguel de S\",\r\n    \"Telefono\": \"0987678765\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://localhost:7133/cliente/clientes"
+					},
+					"response": []
+				}
+			]
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "id",
+			"value": "1"
+		},
+		{
+			"key": "base_url",
+			"value": "https://postman-rest-api-learner.glitch.me/"
+		}
+	]
+}
