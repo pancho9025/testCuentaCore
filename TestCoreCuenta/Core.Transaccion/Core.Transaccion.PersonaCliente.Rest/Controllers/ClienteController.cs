@@ -12,10 +12,12 @@ namespace Core.Transaccion.PersonaCliente.Rest.Controllers
     public class ClienteController : ControllerBase
     {
         private readonly IMediator _mediator;
+        private readonly HttpClient _httpClient;
 
-        public ClienteController(IMediator mediator)
+        public ClienteController(IMediator mediator, HttpClient httpClient)
         {
             _mediator = mediator;
+            _httpClient= httpClient;
         }
 
         [HttpPost]
@@ -38,6 +40,27 @@ namespace Core.Transaccion.PersonaCliente.Rest.Controllers
             var result = await _mediator.Send(crearClienteCommand);
             if (result.Estado)
             {
+                //var cuentaRequest = new
+                //{
+                //    ClienteId = Convert.ToInt32(result.Mensaje.Codigo),
+                //    NumeroCuenta = 345678987,
+                //    TipoCuenta = "Ahorros",
+                //    SaldoInicial = 200,
+                //    Estado = true
+                //};
+
+                //var cuentaJson = JsonConvert.SerializeObject(cuentaRequest);
+                //var content = new StringContent(cuentaJson, Encoding.UTF8, "application/json");
+                //var response = await _httpClient.PostAsync("https://localhost:7005/cuenta/cuentas", content);
+                //if (response.IsSuccessStatusCode)
+                //{
+                //    return Ok(result);
+                //}
+                //else
+                //{
+                //    // Manejo de errores al crear la cuenta
+                //    return BadRequest("Cliente creado, pero no se pudo crear la cuenta.");
+                //}
                 return Ok(result);
             }
             else

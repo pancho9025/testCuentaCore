@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Transaccion.Application", "Core.Transaccion.Application\Core.Transaccion.Application.csproj", "{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.Transaccion.Application", "Core.Transaccion.Application\Core.Transaccion.Application.csproj", "{DE3DC4EE-5F5B-4979-93E3-1817F3DA034D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{89B5C9FD-220A-45B6-B5CA-E3739DE9956B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{59EC91AC-1AB9-45B2-9A77-7A69DBD7DC62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Transaccion.Domain", "Core.Transaccion.Domain\Core.Transaccion.Domain.csproj", "{BB207EFB-2060-4E8F-8379-B541C4ACCC7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.Transaccion.Domain", "Core.Transaccion.Domain\Core.Transaccion.Domain.csproj", "{BB207EFB-2060-4E8F-8379-B541C4ACCC7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Transaccion.Infrastructure", "Core.Transaccion.Infrastructure\Core.Transaccion.Infrastructure.csproj", "{A5A8575E-9472-4D73-98DC-D8709134199E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.Transaccion.Infrastructure", "Core.Transaccion.Infrastructure\Core.Transaccion.Infrastructure.csproj", "{A5A8575E-9472-4D73-98DC-D8709134199E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Transaccion.PersonaCliente.Rest", "Core.Transaccion.PersonaCliente.Rest\Core.Transaccion.PersonaCliente.Rest.csproj", "{A8BEC5F4-C41D-4BF4-BFA9-C9D0B8DBD2F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.Transaccion.PersonaCliente.Rest", "Core.Transaccion.PersonaCliente.Rest\Core.Transaccion.PersonaCliente.Rest.csproj", "{A8BEC5F4-C41D-4BF4-BFA9-C9D0B8DBD2F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Transaccion.MovimientoCuenta.Rest", "Core.Transaccion.MovimientoCuenta.Rest\Core.Transaccion.MovimientoCuenta.Rest.csproj", "{D1936469-DE0A-4DDD-95B3-BDFCD378EB6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.Transaccion.MovimientoCuenta.Rest", "Core.Transaccion.MovimientoCuenta.Rest\Core.Transaccion.MovimientoCuenta.Rest.csproj", "{D1936469-DE0A-4DDD-95B3-BDFCD378EB6D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.Transaccion.Test", "..\..\..\..\$CommunityProjects\TestCoreCuenta\Core.Transaccion\Core.Transaccion.Test\Core.Transaccion.Test.csproj", "{CE5ECE9B-6F9E-4A45-B3CC-4CCC45E8C7C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,6 +45,10 @@ Global
 		{D1936469-DE0A-4DDD-95B3-BDFCD378EB6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1936469-DE0A-4DDD-95B3-BDFCD378EB6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1936469-DE0A-4DDD-95B3-BDFCD378EB6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE5ECE9B-6F9E-4A45-B3CC-4CCC45E8C7C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE5ECE9B-6F9E-4A45-B3CC-4CCC45E8C7C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE5ECE9B-6F9E-4A45-B3CC-4CCC45E8C7C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE5ECE9B-6F9E-4A45-B3CC-4CCC45E8C7C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -53,6 +59,7 @@ Global
 		{A5A8575E-9472-4D73-98DC-D8709134199E} = {89B5C9FD-220A-45B6-B5CA-E3739DE9956B}
 		{A8BEC5F4-C41D-4BF4-BFA9-C9D0B8DBD2F6} = {89B5C9FD-220A-45B6-B5CA-E3739DE9956B}
 		{D1936469-DE0A-4DDD-95B3-BDFCD378EB6D} = {89B5C9FD-220A-45B6-B5CA-E3739DE9956B}
+		{CE5ECE9B-6F9E-4A45-B3CC-4CCC45E8C7C1} = {59EC91AC-1AB9-45B2-9A77-7A69DBD7DC62}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7F391EE3-FCDF-4DBA-BC9F-397E0CDA7241}
