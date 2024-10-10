@@ -27,7 +27,7 @@ namespace Core.Transaccion.Application.Feautures.Movimiento.Command.ActualizarMo
                 return new Core.Transaccion.Application.Shared.MetaDatosResult<int>()
                 {
                     Estado = false,
-                    Mensaje = new Mensaje() { Texto = "“Saldo no disponible" }
+                    Mensaje = new Mensaje() { Texto = "Saldo no disponible" }
                 };
             }
             request.Saldo = saldoActual + request.Valor;

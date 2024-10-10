@@ -30,8 +30,6 @@ namespace Core.Transaccion.MovimientoMovimiento.Rest.Controllers
             {
                 ClienteId = movimiento.ClienteId,
                 CuentaId = movimiento.CuentaId,
-                Fecha = movimiento.Fecha,
-                TipoMovimiento = movimiento.TipoMovimiento,
                 Valor= movimiento.Valor,
                 Saldo = movimiento.Saldo
             };
@@ -55,8 +53,6 @@ namespace Core.Transaccion.MovimientoMovimiento.Rest.Controllers
                 MovimientoId= movimiento.MovimientoId,   
                 ClienteId = movimiento.ClienteId,
                 CuentaId = movimiento.CuentaId,
-                Fecha = movimiento.Fecha,
-                TipoMovimiento = movimiento.TipoMovimiento,
                 Valor = movimiento.Valor,
                 Saldo = movimiento.Saldo
             };

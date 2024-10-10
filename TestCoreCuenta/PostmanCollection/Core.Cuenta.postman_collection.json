@@ -76,7 +76,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"ClienteId\": 11,\r\n    \"CuentaId\": 10,\r\n    \"Fecha\": \"2024-10-06T15:30:00\", \r\n    \"TipoMovimiento\": \"DEPOSITO\", \r\n    \"Valor\": 300.00\r\n}",
+							"raw": "{\r\n    \"ClienteId\": 11,\r\n    \"CuentaId\": 10, \r\n    \"Valor\": 300.00\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -94,7 +94,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"MovimientoId\": 7,\r\n    \"ClienteId\": 11,\r\n    \"CuentaId\": 10,\r\n    \"Fecha\": \"2024-10-07T15:30:00\", \r\n    \"TipoMovimiento\": \"DEPOSITO\", \r\n    \"Valor\": 350.00\r\n}",
+							"raw": "{\r\n    \"MovimientoId\": 7,\r\n    \"ClienteId\": 11,\r\n    \"CuentaId\": 10,\r\n    \"Valor\": 350.00\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -112,7 +112,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"MovimientoId\": 6,\r\n    \"ClienteId\": 11,\r\n    \"CuentaId\": 10,\r\n    \"Fecha\": \"2024-10-07T14:50:00\", \r\n    \"TipoMovimiento\": \"RETIRO\", \r\n    \"Valor\": -500.00\r\n}",
+							"raw": "{\r\n    \"MovimientoId\": 6,\r\n    \"ClienteId\": 11,\r\n    \"CuentaId\": 10, \r\n    \"Valor\": -500.00\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -160,7 +160,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"ClienteId\": 11,\r\n    \"CuentaId\": 10,\r\n    \"Fecha\": \"2024-10-07T14:50:00\", \r\n    \"TipoMovimiento\": \"RETIRO\", \r\n    \"Valor\": -500.00\r\n}",
+							"raw": "{\r\n    \"ClienteId\": 11,\r\n    \"CuentaId\": 10, \r\n    \"Valor\": -500.00\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
